@@ -22,3 +22,8 @@ This project is designed to count coins and dispense water automatically based o
 - **User-friendly Interface**: Provides a clear and interactive display for users to monitor coin counts and total amount.
 - **Initialization and Welcome Message**: Displays a welcome message on the LCD during startup.
 - **Power-efficient**: Ensures the relay is off at the start to save power.
+
+  ## Contact
+
+  -Name  : Robiul Islam Ryad
+  -Gmail : robiulriyadh66@gmail.com
