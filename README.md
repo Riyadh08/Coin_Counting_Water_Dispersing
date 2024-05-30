@@ -1,5 +1,17 @@
 # Coin Counting and Automatic Water Dispensing System
 
+This project is designed to count coins and dispense water automatically based on the total value of coins inserted. The system uses an LCD to display the count of different coin types and the total amount, and a relay to control the water dispensing mechanism.
+
+## Components
+
+- Arduino Uno
+- LiquidCrystal I2C LCD (16x2)
+- Relay Module
+- Resistors
+- Wires
+- Breadboard
+- Coins detection mechanism (can be replaced with push buttons for simulation)
+
 ## Features
 
 - **Coin Detection**: Detects and counts coins of three different denominations (1TK, 2TK, and 5TK).
